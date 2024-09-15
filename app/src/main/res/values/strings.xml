@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_lebron">Lebron James is an NBA player.</string>
+    <string name="question_square">A square has four sides.</string>
+    <string name="question_president">Donald Trump is the first U.S. President.</string>
+    <string name="question_math">The sum of one and two is four.</string>
+    <string name="question_cpp">The mascot of Cal Poly Pomona is Billy Bronco. </string>
+    <string name="question_asia">The Philippines is in Asia.</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+  <string name="prev_button">Prev</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+  <string name="warning_text">Are you sure you want to do this?</string>
+  <string name="show_answer_button">Show Answer</string>
+  <string name="cheat_button">Cheat!</string>
+  <string name="judgment_toast">Cheating is wrong.</string>
+
+</resources>
